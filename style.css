@@ -1,0 +1,12 @@
+* {
+    font-family: Arial;
+}
+
+h1 {
+    font-family: Impact;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: red;
+}
